@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Kohei Minoda
-### [![Anurag's GitHub stats]![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Kohei-kun-no)
+### ![Kohei's github stats](https://github-readme-stats.vercel.app/api?username=Kohei-kun-no)
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kohei-kun-no&layout=compact)](https://github.com/Kohei-kun-no/github-readme-stats)
 
 <!--
