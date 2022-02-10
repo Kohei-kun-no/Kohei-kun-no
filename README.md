@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Kohei Minoda
-### ![Kohei's github stats](https://github-readme-stats.vercel.app/api?username=Kohei-kun-no&count_private=true)
+### ![Kohei's github stats](https://github-readme-stats.vercel.app/api?username=Kohei-kun-no&count_private=true&theme=dracula)
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kohei-kun-no&layout=compact)](https://github.com/Kohei-kun-no/github-readme-stats)
 
 <!--
