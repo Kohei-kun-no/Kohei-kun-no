@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Kohei Minoda
 ### [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kohei-kun-no)](https://github.com/Kohei-kun-no/github-readme-stats)
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kohei-kun-no&layout=compact)](https://github.com/Kohei-kun-no/github-readme-stats)
 
 <!--
 **Kohei-kun-no/Kohei-kun-no** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
