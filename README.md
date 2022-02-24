@@ -1,12 +1,25 @@
 ### Hi there 👋 I'm Kohei Minoda ⚽️🐠⭐️
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kohei-kun-no&theme=gruvbox)](https://github.com/Kohei-kun-no/github-readme-stats)
-### [![trophy](https://github-profile-trophy.vercel.app/?username=Kohei-kun-no&theme=gruvbox)](https://github.com/Kohei-ku-no/github-profile-trophy&theme=gruvbox)
+
+<p>
+  <a href="https://twitter.com/6G2QVnYlSHxIj5m" target="_blank">
+    <img alt="Twitter: 6G2QVnYlSHxIj5m" src="https://img.shields.io/twitter/follow/6G2QVnYlSHxIj5m.svg?style=social" />
+  </a>
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kohei-kun-no&theme=gruvbox&column=7)](https://github.com/Kohei-kun-no/github-profile-trophy)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kohei-kun-no&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kohei-kun-no&theme=gruvbox" />
+</a>
 
 <!--
 **Kohei-kun-no/Kohei-kun-no** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+&theme=gruvbox
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
