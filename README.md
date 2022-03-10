@@ -6,7 +6,7 @@
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kohei-kun-no&theme=gruvbox&column=4)](https://github.com/Kohei-kun-no/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kohei-kun-no&theme=gruvbox&column=8)](https://github.com/Kohei-kun-no/github-profile-trophy)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kohei-kun-no&show_icons=true&theme=gruvbox" />
