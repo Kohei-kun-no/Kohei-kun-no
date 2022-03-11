@@ -1,10 +1,12 @@
 ### Hi there 👋 I'm Kohei Minoda ⚽️🐠⭐️
 
+<!--
 <p>
   <a href="https://twitter.com/6G2QVnYlSHxIj5m" target="_blank">
     <img alt="Twitter: 6G2QVnYlSHxIj5m" src="https://img.shields.io/twitter/follow/6G2QVnYlSHxIj5m.svg?style=social" />
   </a>
 </p>
+-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kohei-kun-no&theme=gruvbox&column=8)](https://github.com/Kohei-kun-no/github-profile-trophy)
 
